@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ylqcxwl&layout=compact&theme=vision-friendly-dark)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)  
 
 
 🤖 欢迎来到我的 GitHub 仓库！ 🚀
