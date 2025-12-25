@@ -1,3 +1,4 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ylqcxwl&layout=compact&theme=vision-friendly-dark)
 🤖 欢迎来到我的 GitHub 仓库！ 🚀
 
 🐟️ 我是一位热爱技术和解决问题的咸鱼。我的开源项目诞生于日常生活中遇到的各种小难题和需求。
